@@ -8,6 +8,5 @@ Persephone Elizabeth Dechario <br />
 Sevval Deniz Erkurt <br />
 Valeria Wardini <br />
 
-## Stork Usernames and Passwords
-
-gmail - storkstorkyfiu@gmail.com; Helloworld11!!
+## Stork Account Names and Passwords
+Gmail; storkstorkyfiu@gmail.com; Helloworld11!!
