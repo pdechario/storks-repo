@@ -1,8 +1,9 @@
 # storks-repo
 
-##Group Members:
-Andres Diazvictores
-Ariel Rubinstein
-Persephone Elizabeth Dechario
-Sevval Deniz Erkurt
-Valeria Wardini
+## Group Members:
+
+Andres Diazvictores <br />
+Ariel Rubinstein <br />
+Persephone Elizabeth Dechario <br />
+Sevval Deniz Erkurt <br />
+Valeria Wardini <br />
