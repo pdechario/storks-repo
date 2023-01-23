@@ -1,5 +1,4 @@
 # storks-repo
-project
 ## Group Members:
 
 Andres Diazvictores <br />
