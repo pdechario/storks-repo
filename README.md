@@ -1,5 +1,17 @@
 # storks-repo
-## how to create database with postgreSQL
+
+## Group Members:
+Andres Diazvictores <br/>
+Ariel Rubinstein <br/>
+Persephone Elizabeth Dechario <br/>
+Sevval Deniz Erkurt <br/>
+Valeria Wardini <br/>
+
+## Stork Account Names and Passwords
+Gmail; storkstorkyfiu@gmail.com; Helloworld11!!
+
+
+## How To Create Database With PostgreSQL
 
 CREATE USER username WITH PASSWORD 'password' CREATED; <br/>
 CREATE DATABASE nodelogin; <br/>
